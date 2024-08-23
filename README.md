@@ -4,7 +4,7 @@
 
 [**Junyan Wang**](https://github.com/OnlyForWW), Internet School of Anhui University, Heifei, China.
 
-[**HaoRan Yu**](https://github.com/yhrzzz), Queen Mary University of London, London, the UK.
+[**Haoran Yu**](https://github.com/yhrzzz), Queen Mary University of London, London, the UK.
 
 ## Overall Architecture
 
