@@ -6,7 +6,7 @@
 
 [**Haoran Yu**](https://github.com/yhrzzz), Queen Mary University of London, London, the UK.
 
-**Feiyang kang**, Institute of Advanced Technology, University of Science and Technology of China, Hefei, 230031, China.
+**Feiyang Kang**, Institute of Advanced Technology, University of Science and Technology of China, Hefei, 230031, China.
 
 ## Overall Architecture
 
